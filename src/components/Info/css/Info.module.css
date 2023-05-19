@@ -1,0 +1,106 @@
+.about{
+  background: #FFCB00;
+}
+
+
+.about_us{
+  height: 970px;
+}
+
+.about_us_tipe{
+  position: relative;
+  text-align: center;
+}
+.about_us_tipe_fil{
+  position: relative;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  color: #333333;
+  z-index: 1;
+
+}
+.group{
+  z-index: 0;
+  top: -45%;
+  left: 40.5%;
+  position: absolute;
+
+}
+
+.ava{
+  display: flex;
+  
+}
+.ava_info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+.ava_info h2{
+  font-size: 18px;
+  line-height: 150%;
+  margin-top: 10px;
+}
+.ava_info p{
+  font-size: 10px;
+  line-height: 150%;
+  width: 237px;
+}
+.info{
+  width: 732px;
+  font-size: 16px;
+  line-height: 171.5%;
+}
+.group_2{
+  z-index: 0;
+  top: -45%;
+  left: 41.9%;
+  position: absolute;
+}
+.list{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.info_blocks{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  height: 160px;
+}
+.info_blocks_check{
+  margin-top: 8px;
+}
+.info_block_1{
+  margin-left: 50px;
+}
+.info_block_1 h2{
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 150%;
+}
+.info_block_1 p{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+}
+.permissions{
+  text-align: center;
+}
+
+.permissions h2{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+}
+.permissions_docum{
+  display: flex;
+  justify-content: space-around;
+  height: 300px;
+  margin: 40px 250px;
+  width: auto;
+}
+

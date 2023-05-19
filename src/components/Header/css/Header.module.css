@@ -1,0 +1,22 @@
+.custom_button {
+  color: #FFCB00;
+  background-color: transparent; /* Прозрачный фон кнопки */
+  border-color: rgb(225, 209, 28); /* Цвет границы кнопки */
+  transition: background-color 0.3s; /* Анимация transition для свойства background-color */
+}
+
+.custom_button:hover {
+  background-color: #FFCB00; /* Цвет фона кнопки при наведении курсора */
+}
+
+.pint {
+  color: black; /* Цвет текста ссылок */
+  transition: color 0.3s; /* Анимация transition для свойства color */
+}
+
+.pint:hover,
+.pint:focus {
+  color: #FFCB00; /* Цвет текста ссылок при наведении курсора или фокусировке */
+}
+
+
